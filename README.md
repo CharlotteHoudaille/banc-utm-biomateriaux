@@ -1,1 +1,1 @@
-# Machine-d-essais-m-caniques-pour-biomat-riaux
+# Machine-d-essais-mecaniques-pour-biomateriaux
